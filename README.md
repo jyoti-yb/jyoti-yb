@@ -1,15 +1,122 @@
+<h1 align="center">Hi 👋, I'm Jyoti Yadav</h1>
+<h3 align="center">🚀 Computer Science Student | AI & Systems Enthusiast | Building Real-World Tech</h3>
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jyoti-yb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jyoti-yb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-yb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jyoti-yb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+I love building impactful technology at the intersection of <b>AI, Systems, and Security</b>.  
+Currently exploring <b>Machine Learning, Distributed Systems, and Developer Tools</b>.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jyoti-yb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👩‍💻 About Me
+
+🎓 3rd Year B.Tech CSE Student  
+🚀 Passionate about **AI, Systems Engineering, and Developer Infrastructure**  
+💡 Love building **real-world tech products solving meaningful problems**  
+🏆 Solved **200+ DSA problems on LeetCode**  
+🌱 Currently exploring **Machine Learning Systems & Data Analytics**
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 InsightSniffer — Product Analytics Engine
+Real-time analytics engine that analyzes user behavior and generates insights.
+
+**Tech:** Python, MySQL, Machine Learning
+
+✔ Detects product usage patterns  
+✔ Generates actionable insights for teams  
+✔ Data-driven decision support
+
+---
+
+### 🌍 CarbonCtrl — Carbon Footprint Tracker
+AI-powered platform that helps users track and reduce carbon emissions.
+
+**Tech:** React, Firebase, Climate APIs, ML
+
+✔ Calculates emissions based on daily activities  
+✔ Personalized recommendations for sustainability  
+✔ Visual analytics dashboard
+
+---
+
+### 🔐 QRYPT — Post Quantum Secure Messaging
+Secure messaging platform resistant to **quantum attacks**.
+
+**Tech:** React, Node.js, Kyber, Socket.IO
+
+✔ Implements **post-quantum cryptography**  
+✔ Protects communication against Shor's Algorithm  
+✔ Real-time encrypted messaging
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+`Java` `Python` `C` `C++` `Go`
+
+### Backend
+`Spring Boot` `Django` `Flask` `FastAPI` `Express.js`
+
+### Frontend
+`React` `Angular` `TailwindCSS`
+
+### Databases
+`MongoDB` `MySQL` `Redis` `DynamoDB`
+
+### Cloud & DevOps
+`AWS` `Azure` `Google Cloud` `Firebase` `Jenkins` `Docker`
+
+### Data & ML
+`Pandas` `NumPy` `Scikit-Learn` `Matplotlib`
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jyoti-yb&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=jyoti-yb&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-yb&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🧠 LeetCode Progress
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/jyoti-yb?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 Google Immersion Week Participant  
+🏅 Smart India Hackathon Finalist  
+🏅 AWS Cloud Foundations Certified  
+🏅 Salesforce AI Associate Certified  
+🏅 Women Engineers Program Scholar (Google Supported)
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="mailto:"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
