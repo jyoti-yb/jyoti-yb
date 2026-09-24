@@ -1,18 +1,10 @@
 <h1 align="center">
-Hi 👋 I'm Jyoti Yadav
+Hi I'm Jyoti Yadav
 </h1>
 
 <h3 align="center">
 Machine Learning • Cloud Engineering • Scalable Systems
 </h3>
-
-<p align="center">
-I build intelligent systems that combine <b>Machine Learning, Cloud Infrastructure, and Data Engineering</b>.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jyoti-yb&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 
 
